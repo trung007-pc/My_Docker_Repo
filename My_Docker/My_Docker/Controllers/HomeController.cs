@@ -31,6 +31,7 @@ namespace My_Docker.Controllers
             //     ViewData["Names"] = Names;
             // }
             //
+            //
             byte[] fileBytes = System.IO.File.ReadAllBytes(@"E:\xxx\4_26_2023 12_00_00 AM.pdf");
             string base64String = Convert.ToBase64String(fileBytes);
             ViewData["Code"] = base64String;

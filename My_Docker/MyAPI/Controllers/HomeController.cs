@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 using Microsoft.AspNetCore.Mvc;
 using MyAPI.Models;
@@ -9,7 +10,7 @@ namespace MyAPI.Controllers
     [Route("api/home")]
     public class HomeController : Controller
     {
-        private DockerContext _context;
+        private readonly DockerContext _context;
         public HomeController(DockerContext context)
         {
             _context = context;
@@ -18,6 +19,9 @@ namespace MyAPI.Controllers
         [HttpGet]
         public List<string> GetValues()
         {
+
+            var c= _context.Students.FirstOrDefault();
+            Console.WriteLine(c.Name);
             var students = _context.Students.ToList();
             return students.Select(x=>x.Name).ToList();
         }

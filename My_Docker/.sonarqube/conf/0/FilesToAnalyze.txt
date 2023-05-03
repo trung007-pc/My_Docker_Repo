@@ -1,0 +1,16 @@
+﻿E:\Docker_Repo\My_Docker_Repo\My_Docker\MyAPI\Controllers\HomeController.cs
+E:\Docker_Repo\My_Docker_Repo\My_Docker\MyAPI\Migrations\20230427154503_InitialSeedData.cs
+E:\Docker_Repo\My_Docker_Repo\My_Docker\MyAPI\Migrations\20230427154503_InitialSeedData.Designer.cs
+E:\Docker_Repo\My_Docker_Repo\My_Docker\MyAPI\Migrations\DockerContextModelSnapshot.cs
+E:\Docker_Repo\My_Docker_Repo\My_Docker\MyAPI\Models\DockerContext.cs
+E:\Docker_Repo\My_Docker_Repo\My_Docker\MyAPI\Models\Students.cs
+E:\Docker_Repo\My_Docker_Repo\My_Docker\MyAPI\Program.cs
+E:\Docker_Repo\My_Docker_Repo\My_Docker\MyAPI\obj\Debug\net6.0\MyAPI.GlobalUsings.g.cs
+E:\Docker_Repo\My_Docker_Repo\My_Docker\MyAPI\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+E:\Docker_Repo\My_Docker_Repo\My_Docker\MyAPI\obj\Debug\net6.0\MyAPI.AssemblyInfo.cs
+E:\Docker_Repo\My_Docker_Repo\My_Docker\MyAPI\obj\Debug\net6.0\MyAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\Docker_Repo\My_Docker_Repo\My_Docker\MyAPI\appsettings.Development.json
+E:\Docker_Repo\My_Docker_Repo\My_Docker\MyAPI\appsettings.json
+E:\Docker_Repo\My_Docker_Repo\My_Docker\MyAPI\.dockerignore
+E:\Docker_Repo\My_Docker_Repo\My_Docker\MyAPI\Dockerfile
+E:\Docker_Repo\My_Docker_Repo\My_Docker\MyAPI\Properties\launchSettings.json

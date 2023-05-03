@@ -1,0 +1,1 @@
+E:\Docker_Repo\My_Docker_Repo\My_Docker\.sonarqube\out\1
